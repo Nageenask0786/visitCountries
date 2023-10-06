@@ -1,0 +1,14 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-size: cover;
+  background-color: #161624;
+}
+.countries {
+  height: 300px;
+  overflow-y: scroll;
+  width: 80%;
+  align-self: center;
+  margin-top: 30px;
+}
